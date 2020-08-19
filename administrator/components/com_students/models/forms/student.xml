@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<form>
+    <fieldset>
+        <field name="id" type="hidden" default="0" />
+        <field name="name" type="text" class="inputbox"
+               size="40" label="Họ và tên" required="true"/>
+        <field name="year" type="text" class="inputbox"
+               size="40" label="Năm sinh" />
+        <field name="avg" type="text" class="inputbox"
+               size="40" label="Điểm trung bình" />
+    </fieldset>
+</form>

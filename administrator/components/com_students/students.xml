@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<extension type="component" version="3.0" method="upgrade">
+    <name>com_students</name>
+    <author>Lê Văn Quang An</author>
+    <administration>
+        <menu>Quản lý sinh viên</menu>
+        <files folder="admin">
+            <filename>index.html</filename>
+            <filename>students.php</filename>
+            <filename>controller.php</filename>
+            <folder>controllers</folder>
+            <folder>models</folder>
+            <folder>views</folder>
+        </files>
+    </administration>
+</extension>
